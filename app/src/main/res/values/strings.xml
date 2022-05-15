@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">POG_Data</string>
+
+
+    <!--메뉴-->
+    <string name="menu_home">홈</string>
+    <string name="menu_search">찾기</string>
+    <string name="menu_matching">매칭</string>
+    <string name="menu_mypage">마이페이지</string>
+
+
+</resources>
